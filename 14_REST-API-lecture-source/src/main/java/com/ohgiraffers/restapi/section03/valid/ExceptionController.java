@@ -22,4 +22,6 @@ public class ExceptionController {
                 HttpStatus.NOT_FOUND
         );
     }
+
+
 }
