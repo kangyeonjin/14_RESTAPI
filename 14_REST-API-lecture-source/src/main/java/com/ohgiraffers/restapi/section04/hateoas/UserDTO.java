@@ -1,4 +1,4 @@
-package com.ohgiraffers.restapi.section05.swagger;
+package com.ohgiraffers.restapi.section04.hateoas;
 
 import java.time.LocalDate;
 
@@ -35,8 +35,8 @@ public class UserDTO {
         return id;
     }
 
-    public void setId(String id) {
-        this.id = this.id;
+    public void setId() {
+        this.id = id;
     }
 
     public String getPwd() {

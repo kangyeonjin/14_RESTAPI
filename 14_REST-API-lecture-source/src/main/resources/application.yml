@@ -1,1 +1,3 @@
-spring.application.name=14_REST-API-lecture-source
+#spring.application.name=14_REST-API-lecture-source
+springdoc:
+  packages-to-scan: com.ohgiraffers.restapi.section05
